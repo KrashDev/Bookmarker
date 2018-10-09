@@ -1,0 +1,9 @@
+body {
+  background-image: url("images/gplaypattern.png");
+  overflow-x: hidden;
+  /* overflow-y: hidden; */
+}
+
+.jumbotron {
+  font-size: 40px;
+}
